@@ -18,3 +18,8 @@ Here is the full reverse engineered source code. Enjoy
 
 
 [NOTE] this is where I got the APK. https://apkpure.com/tiktok/com.ss.android.ugc.trill
+
+
+# TODO LIST
+
+decode all android manifests
