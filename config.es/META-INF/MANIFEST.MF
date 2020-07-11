@@ -1,0 +1,43 @@
+Manifest-Version: 1.0
+Built-By: BundleTool
+Created-By: BundleTool
+
+Name: AndroidManifest.xml
+SHA1-Digest: Yh1rwYO7U09U7PkNOhPVH0Kopgk=
+
+Name: assets/i18#lang_es/ar.json
+SHA1-Digest: d9rLqkTAq9benYN9SaV8k/0nQ5k=
+
+Name: assets/i18#lang_es/cl.json
+SHA1-Digest: Djznf/ssb7+JRFjlEfhAiAQvPmY=
+
+Name: assets/i18#lang_es/co.json
+SHA1-Digest: KUEoUEW++Vpqo9nGS5WMX2q57X4=
+
+Name: assets/i18#lang_es/cr.json
+SHA1-Digest: ZRTTItWPnmvjCq4DEs8BVgD7FRM=
+
+Name: assets/i18#lang_es/default.json
+SHA1-Digest: 6BQOPqKxfUG89t/jq46dE69fGXg=
+
+Name: assets/i18#lang_es/do.json
+SHA1-Digest: +Epc0nL5OGSlng/Ll3MZgak1iLI=
+
+Name: assets/i18#lang_es/ec.json
+SHA1-Digest: TT8+hhIj93pZrVgYjBZdz+CMANU=
+
+Name: assets/i18#lang_es/es.json
+SHA1-Digest: i6PksnVYbIv5ZeuJ4D/gta3muRY=
+
+Name: assets/i18#lang_es/pe.json
+SHA1-Digest: vG8DSGk7kwGbwubKh135DGtauNw=
+
+Name: assets/i18#lang_es/us.json
+SHA1-Digest: dAsKbeyfIsx2YRmwQFI9qIDP8oM=
+
+Name: assets/i18#lang_es/ve.json
+SHA1-Digest: HMaNed3k2ye3C9NWF5T0d7wVRUw=
+
+Name: resources.arsc
+SHA1-Digest: txWVLG6nhRq0FP12radp9+j08bU=
+

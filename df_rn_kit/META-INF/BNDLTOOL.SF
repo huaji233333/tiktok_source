@@ -1,0 +1,56 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: +vw/zyADdznfkXdrz43EaXPVo+s=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA1-Digest: 0GD2zcNMeymx/evLnLs1uu66FnU=
+
+Name: assets/base.bundle
+SHA1-Digest: 9fveYTy7J2EI9YsvV1j9v4nLpEE=
+
+Name: classes.dex
+SHA1-Digest: 3+S8/nbDIvGK7cK10jBjTmWtNWo=
+
+Name: res/a/er.xml
+SHA1-Digest: kLwKfhjt+q2rWd8wC6wTdttd2tM=
+
+Name: res/a/es.xml
+SHA1-Digest: HdGB4rxbxMO6IC3M/YwhZP4h+Xk=
+
+Name: res/a/et.xml
+SHA1-Digest: Sgy7YVOrDWkL0bTT+vP0rxlR/XA=
+
+Name: res/a/eu.xml
+SHA1-Digest: mqgTNTEXwPXXnYkrgvV26WRxKow=
+
+Name: res/a/ev.xml
+SHA1-Digest: ddiqwkH68SiES2zPyTfAnjOFmqU=
+
+Name: res/a/ew.xml
+SHA1-Digest: XUZjJKYOJPsxAnx8BTCUjulc+sY=
+
+Name: res/a7/b7r.xml
+SHA1-Digest: Kks5XTBnNGcqZhuP9/KSfIhJBIg=
+
+Name: res/a7/b7s.xml
+SHA1-Digest: J0lqwdowuLOer2P2dqiPWd5UME8=
+
+Name: res/a7/b7t.xml
+SHA1-Digest: T+grr9IjtpD9pdx9rATpwM9gPec=
+
+Name: res/a7/b7u.xml
+SHA1-Digest: aTsKBLdzwLT+seIQKdFEnEX4qmc=
+
+Name: res/a7/b7v.xml
+SHA1-Digest: ZzH7YFe83PEMMAOVs9N8QcSai+4=
+
+Name: res/a8/aqb.xml
+SHA1-Digest: iEEgs64p4m8GIK9zLIlzDVyDd+M=
+
+Name: res/aq/m.xml
+SHA1-Digest: 0FSHflDabEE7WOslJ//NcUvQOzY=
+
+Name: resources.arsc
+SHA1-Digest: Lm9qdTNKJHoBPoDcWulwNLi3XcI=
+

@@ -1,0 +1,31 @@
+Manifest-Version: 1.0
+Built-By: BundleTool
+Created-By: BundleTool
+
+Name: AndroidManifest.xml
+SHA1-Digest: Q43/J85bkUjEsybopUr4WKzYk38=
+
+Name: classes.dex
+SHA1-Digest: 2FjBttwbWBNAR5c8W3x+lIH50I4=
+
+Name: res/a7/aqz.xml
+SHA1-Digest: lZ8Mwze6l/SuHSxTYQWSkQdFb28=
+
+Name: res/a7/ar0.xml
+SHA1-Digest: T7Y2WoROvJgkJf0HLNK+45uvS2E=
+
+Name: res/o/arc.png
+SHA1-Digest: w8zOgxbgMNdWQ1cDECOIyrR4DHA=
+
+Name: res/o/ard.png
+SHA1-Digest: 4KDdls6NetGcHKG0tqRMgfXJFvo=
+
+Name: res/o/are.png
+SHA1-Digest: IdCIMsHD1pNoMqFYwNoXzNHPA9A=
+
+Name: res/p/a5r.xml
+SHA1-Digest: QxcI9d8p44cfFiC36/GFu4fjC2E=
+
+Name: resources.arsc
+SHA1-Digest: dXHoy15Oqwkfb12zkF5Adxkgkfs=
+

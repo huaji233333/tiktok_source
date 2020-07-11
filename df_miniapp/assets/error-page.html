@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <title>加载错误</title>
+  <style type="text/css">
+      * {
+        margin: 0px;
+        padding: 0px;
+      }
+      html,
+      body {
+        width: 100%;
+        height: 100%;
+      }
+      .container {
+        text-align: center;
+        padding-top: 249px;
+        font-family: PingFangSC-Medium;
+      }
+      .container .network {
+        font-size: 20px;
+        font-weight: 500;
+        color: rgba(126, 131, 140, 1);
+        line-height: 28px;
+      }
+      .container .tips {
+        margin-top: 3px;
+        font-size: 14px;
+        font-weight: 400;
+        color: rgba(194, 197, 204, 1);
+        line-height: 22px;
+      }
+      .container .btn {
+        display: inline-block;
+        background: white;
+        margin-top: 26px;
+        width: 100px;
+        height: 34px;
+        border-radius: 4px;
+        border: 1px solid rgba(194, 197, 204, 1);
+        font-size: 14px;
+        font-weight: 400;
+        color: rgba(126, 131, 140, 1);
+        line-height: 22px;
+      }
+    </style>
+</head>
+<body>
+<div class="container">
+  <div class="network" id="network"></div>
+  <div class="tips" id="tips"></div>
+  <button id="reloadBtn" class="btn"></button>
+</div>
+</body>
+<script type="text/javascript">
+   var getUrlParams = function(url) {
+    url = url.replace(/#.*$/, '');
+    var queryArray = url.split(/[?&]/).slice(1);
+    var i;
+    args = {};
+    for (i = 0; i < queryArray.length; i++) {
+        var match = queryArray[i].match(/([^=]+)=([^=]+)/);
+        if (match !== null) {
+            args[match[1]] = decodeURIComponent(match[2]);
+        }
+    }
+    return args;
+  };
+  var languageMap = {
+    zh: {
+      title: '加载错误',
+      network: '网络不稳定',
+      tips: '请点击按钮重新加载...',
+      reloadBtn: '重新加载'
+    },
+    en: {
+      title: 'Load Error',
+      network: 'Network Instability',
+      tips: 'Please click the button to reload...',
+      reloadBtn: 'Reload'
+    },
+    ja: {
+      title: "読み込みエラー",
+      network: "ネットワークは安定していません",
+      tips: "クリックして再試行します",
+      reloadBtn: "再試行"
+    }
+  }
+   var params = getUrlParams(location.href);
+   var languageType = (params["language"] || "").toLowerCase();
+   if (languageType.indexOf("en") > -1) {
+     languageType = "en";
+   } else if (languageType.indexOf("ja") > -1) {
+     languageType = "ja";
+   }
+  var language = languageMap[languageType] || languageMap["zh"];
+  var network = document.getElementById("network");
+  var tips = document.getElementById("tips");
+  var reloadBtn = document.getElementById("reloadBtn");
+
+  document.title = language['title'];
+  network.innerText = language['network'];
+  tips.innerText = language['tips'];
+  reloadBtn.innerText = language['reloadBtn'];
+
+  reloadBtn.onclick = function() {
+    if (window.ttJSCore) {
+      ttJSCore.invoke("reload");
+    } else {
+      window.webkit.messageHandlers.reload.postMessage("");
+    }
+  };
+  </script>
+</html>

@@ -1,0 +1,1039 @@
+{
+    "status_code": 0,
+    "min_cursor": 0,
+    "max_cursor": 0,
+    "has_more": 1,
+    "aweme_list": [
+        {
+            "aweme_id": "6828356531696749829",
+            "desc": "reposting cause they took it down",
+            "create_time": 1589850647,
+            "author": {
+                "uid": "6631468310313943045",
+                "short_id": "42767209464",
+                "nickname": "LazarBeam ",
+                "signature": "follow me on Instagram for free vbucks",
+                "avatar_thumb": {
+                    "uri": "musically-maliva-obj/1655939698549765",
+                    "url_list": [
+                        "https://p16-va.tiktokcdn.com/img/musically-maliva-obj/1655939698549765~c5_100x100.webp"
+                    ],
+                    "width": 720,
+                    "height": 720
+                },
+                "avatar_medium": {
+                    "uri": "musically-maliva-obj/1655939698549765",
+                    "url_list": [
+                        "https://p16-va.tiktokcdn.com/img/musically-maliva-obj/1655939698549765~c5_720x720.webp"
+                    ],
+                    "width": 720,
+                    "height": 720
+                },
+                "is_verified": true,
+                "follow_status": 0,
+                "is_block": false,
+                "location": "",
+                "hide_location": false,
+                "custom_verify": "Verified account",
+                "unique_id": "lazarbeam",
+                "story_count": 0,
+                "room_id": 0,
+                "authority_status": 0,
+                "verify_info": "",
+                "share_info": {
+                    "share_url": "",
+                    "share_weibo_desc": "",
+                    "share_desc": "",
+                    "share_title": "",
+                    "share_qrcode_url": {
+                        "uri": "",
+                        "url_list": [],
+                        "width": 720,
+                        "height": 720
+                    },
+                    "share_title_myself": "",
+                    "share_title_other": ""
+                },
+                "with_commerce_entry": false,
+                "verification_type": 1,
+                "enterprise_verify_reason": "",
+                "is_ad_fake": false,
+                "followers_detail": null,
+                "region": "AU",
+                "sync_to_toutiao": 0,
+                "commerce_user_level": 0,
+                "platform_sync_info": null,
+                "is_discipline_member": false,
+                "secret": 0,
+                "prevent_download": false,
+                "geofencing": null,
+                "video_icon": {
+                    "uri": "",
+                    "url_list": [],
+                    "width": 720,
+                    "height": 720
+                },
+                "comment_setting": 0,
+                "duet_setting": 0,
+                "download_setting": 0,
+                "cover_url": [
+                    {
+                        "uri": "tiktok-obj/1613727517271041",
+                        "url_list": [
+                            "https://p16-tiktokcdn-com.akamaized.net/obj/tiktok-obj/1613727517271041?l=202006181309480101151761430C238C4C"
+                        ],
+                        "width": 720,
+                        "height": 720
+                    }
+                ],
+                "language": "en",
+                "item_list": null,
+                "has_unread_story": false,
+                "new_story_cover": null,
+                "is_star": false,
+                "type_label": [],
+                "ad_cover_url": null,
+                "comment_filter_status": 0,
+                "avatar_168x168": {
+                    "uri": "musically-maliva-obj/1655939698549765",
+                    "url_list": [
+                        "https://p16-va.tiktokcdn.com/img/musically-maliva-obj/1655939698549765~c5_168x168.webp"
+                    ],
+                    "width": 720,
+                    "height": 720
+                },
+                "avatar_300x300": {
+                    "uri": "musically-maliva-obj/1655939698549765",
+                    "url_list": [
+                        "https://p16-va.tiktokcdn.com/img/musically-maliva-obj/1655939698549765~c5_300x300.webp"
+                    ],
+                    "width": 720,
+                    "height": 720
+                },
+                "relative_users": null,
+                "cha_list": null,
+                "sec_uid": "MS4wLjABAAAAcFeR8LSWKVqLO865lfOT243AxeICHFQJ1oWq4gJ4QxnuBB4lfAOZQz4RKYa88-U2",
+                "need_points": null,
+                "homepage_bottom_toast": null,
+                "can_set_geofencing": null,
+                "white_cover_url": null
+            },
+            "music": {
+                "id": 6828356499736137000,
+                "id_str": "6828356499736136453",
+                "title": "original sound - lazarbeam",
+                "author": "LazarBeam ",
+                "album": "",
+                "cover_hd": {
+                    "uri": "musically-maliva-obj/1655939698549765",
+                    "url_list": [
+                        "https://p16-va.tiktokcdn.com/img/musically-maliva-obj/1655939698549765~c5_1080x1080.webp"
+                    ],
+                    "width": 720,
+                    "height": 720
+                },
+                "cover_large": {
+                    "uri": "musically-maliva-obj/1655939698549765",
+                    "url_list": [
+                        "https://p16-va.tiktokcdn.com/img/musically-maliva-obj/1655939698549765~c5_1080x1080.webp"
+                    ],
+                    "width": 720,
+                    "height": 720
+                },
+                "cover_medium": {
+                    "uri": "musically-maliva-obj/1655939698549765",
+                    "url_list": [
+                        "https://p16-va.tiktokcdn.com/img/musically-maliva-obj/1655939698549765~c5_720x720.webp"
+                    ],
+                    "width": 720,
+                    "height": 720
+                },
+                "cover_thumb": {
+                    "uri": "musically-maliva-obj/1655939698549765",
+                    "url_list": [
+                        "https://p16-va.tiktokcdn.com/img/musically-maliva-obj/1655939698549765~c5_100x100.webp"
+                    ],
+                    "width": 720,
+                    "height": 720
+                },
+                "play_url": {
+                    "uri": "https://p16-va.tiktokcdn.com/obj/musically-maliva-obj/f7ef14680f428fa99e9c8ef88f1a65ad.mp3",
+                    "url_list": [
+                        "https://p16-va.tiktokcdn.com/obj/musically-maliva-obj/f7ef14680f428fa99e9c8ef88f1a65ad.mp3"
+                    ],
+                    "width": 720,
+                    "height": 720
+                },
+                "schema_url": "",
+                "source_platform": 72,
+                "start_time": 0,
+                "end_time": 0,
+                "duration": 9,
+                "extra": "{\"hotsoon_review_time\":-1,\"has_edited\":0,\"reviewed\":1,\"beats\":{},\"douyin_beats_info\":{},\"schedule_search_time\":0}",
+                "user_count": 0,
+                "position": null,
+                "collect_stat": 0,
+                "status": 1,
+                "offline_desc": "",
+                "owner_id": "6631468310313943045",
+                "owner_nickname": "LazarBeam ",
+                "is_original": false,
+                "mid": "6828356499736136453",
+                "binded_challenge_id": 0,
+                "redirect": false,
+                "is_restricted": false,
+                "author_deleted": false,
+                "is_del_video": false,
+                "is_video_self_see": false,
+                "owner_handle": "lazarbeam",
+                "author_position": null,
+                "prevent_download": false,
+                "unshelve_countries": null,
+                "prevent_item_download_status": 0,
+                "external_song_info": [],
+                "sec_uid": "MS4wLjABAAAAcFeR8LSWKVqLO865lfOT243AxeICHFQJ1oWq4gJ4QxnuBB4lfAOZQz4RKYa88-U2",
+                "avatar_thumb": {
+                    "uri": "musically-maliva-obj/1655939698549765",
+                    "url_list": [
+                        "https://p16-va.tiktokcdn.com/img/musically-maliva-obj/1655939698549765~c5_100x100.webp"
+                    ],
+                    "width": 720,
+                    "height": 720
+                },
+                "avatar_medium": {
+                    "uri": "musically-maliva-obj/1655939698549765",
+                    "url_list": [
+                        "https://p16-va.tiktokcdn.com/img/musically-maliva-obj/1655939698549765~c5_720x720.webp"
+                    ],
+                    "width": 720,
+                    "height": 720
+                },
+                "avatar_large": {
+                    "uri": "musically-maliva-obj/1655939698549765",
+                    "url_list": [
+                        "https://p16-va.tiktokcdn.com/img/musically-maliva-obj/1655939698549765~c5_1080x1080.webp"
+                    ],
+                    "width": 720,
+                    "height": 720
+                },
+                "preview_start_time": 0,
+                "preview_end_time": 0,
+                "is_commerce_music": true,
+                "is_original_sound": true,
+                "artists": null,
+                "lyric_short_position": null,
+                "mute_share": false,
+                "tag_list": null,
+                "is_author_artist": false,
+                "is_pgc": false
+            },
+            "cha_list": null,
+            "video": {
+                "play_addr": {
+                    "uri": "v09044830000br1j43k45u07pnsgito0",
+                    "url_list": [
+                        "https://api-h2.tiktokv.com/aweme/v1/play/?video_id=v09044830000br1j43k45u07pnsgito0&line=0&ratio=540p&media_type=4&vr_type=0&improve_bitrate=0&is_play_url=1&is_support_h265=0&source=PackSourceEnum_FEED"
+                    ],
+                    "width": 720,
+                    "height": 720,
+                    "url_key": "v09044830000br1j43k45u07pnsgito0_h264_540p_1224540",
+                    "data_size": 1428580
+                },
+                "cover": {
+                    "uri": "tos-maliva-p-0068/ec514c7bd1e64abf85ab0a0d79668982",
+                    "url_list": [
+                        "https://p16-tiktok-va.ibyteimg.com/tos-maliva-p-0068/ec514c7bd1e64abf85ab0a0d79668982~noop.webp?x-expires=1592658000&x-signature=oolCX4tPgvqUTRwMU3LGA5UfrPk%3D&l=202006181309480101151761430C238C4C"
+                    ],
+                    "width": 720,
+                    "height": 720
+                },
+                "height": 960,
+                "width": 540,
+                "dynamic_cover": {
+                    "uri": "tos-maliva-p-0068/7f80923909ae422eb768ba62fa924cf9_1589850650",
+                    "url_list": [
+                        "https://p16-tiktok-va.ibyteimg.com/obj/tos-maliva-p-0068/7f80923909ae422eb768ba62fa924cf9_1589850650?x-expires=1592658000&x-signature=nYmvmpkC0qwVsODUuubejDMNJlY%3D&l=202006181309480101151761430C238C4C"
+                    ],
+                    "width": 720,
+                    "height": 720
+                },
+                "origin_cover": {
+                    "uri": "tos-maliva-p-0068/be5a91c28524443687f5ba38532dd2a4_1589850650",
+                    "url_list": [
+                        "https://p16-tiktok-va.ibyteimg.com/tos-maliva-p-0068/be5a91c28524443687f5ba38532dd2a4_1589850650~noop.image?x-expires=1592658000&x-signature=Xzs%2Fcr9Czjbgd8plmYhFoQ5Z64A%3D&l=202006181309480101151761430C238C4C"
+                    ],
+                    "width": 720,
+                    "height": 720
+                },
+                "ratio": "540p",
+                "download_addr": {
+                    "uri": "v09044830000br1j43k45u07pnsgito0",
+                    "url_list": [
+                        "https://api-h2.tiktokv.com/aweme/v1/play/?video_id=v09044830000br1j43k45u07pnsgito0&line=0&ratio=540p&watermark=1&media_type=4&vr_type=0&improve_bitrate=0&logo_name=tiktok_m&quality_type=4&is_support_h265=0&source=PackSourceEnum_FEED"
+                    ],
+                    "width": 720,
+                    "height": 720,
+                    "data_size": 1483291
+                },
+                "has_watermark": true,
+                "bit_rate": [
+                    {
+                        "gear_name": "normal_540",
+                        "quality_type": 20,
+                        "bit_rate": 1224540,
+                        "play_addr": {
+                            "uri": "v09044830000br1j43k45u07pnsgito0",
+                            "url_list": [
+                                "https://api-h2.tiktokv.com/aweme/v1/play/?video_id=v09044830000br1j43k45u07pnsgito0&line=0&ratio=540p&media_type=4&vr_type=0&improve_bitrate=0&is_play_url=1&is_support_h265=0&source=PackSourceEnum_FEED"
+                            ],
+                            "width": 720,
+                            "height": 720,
+                            "url_key": "v09044830000br1j43k45u07pnsgito0_h264_540p_1224540",
+                            "data_size": 1428580
+                        },
+                        "is_h265": 0
+                    },
+                    {
+                        "gear_name": "lower_540",
+                        "quality_type": 24,
+                        "bit_rate": 700429,
+                        "play_addr": {
+                            "uri": "v09044830000br1j43k45u07pnsgito0",
+                            "url_list": [
+                                "https://api-h2.tiktokv.com/aweme/v1/play/?video_id=v09044830000br1j43k45u07pnsgito0&line=0&ratio=540p&media_type=4&vr_type=0&improve_bitrate=0&is_play_url=1&quality_type=4&is_support_h265=0&source=PackSourceEnum_FEED"
+                            ],
+                            "width": 720,
+                            "height": 720,
+                            "url_key": "v09044830000br1j43k45u07pnsgito0_h264_540p_700429",
+                            "data_size": 817139
+                        },
+                        "is_h265": 0
+                    },
+                    {
+                        "gear_name": "lowest_540",
+                        "quality_type": 25,
+                        "bit_rate": 508746,
+                        "play_addr": {
+                            "uri": "v09044830000br1j43k45u07pnsgito0",
+                            "url_list": [
+                                "https://api-h2.tiktokv.com/aweme/v1/play/?video_id=v09044830000br1j43k45u07pnsgito0&line=0&ratio=540p&media_type=4&vr_type=0&improve_bitrate=0&is_play_url=1&quality_type=5&is_support_h265=0&source=PackSourceEnum_FEED"
+                            ],
+                            "width": 720,
+                            "height": 720,
+                            "url_key": "v09044830000br1j43k45u07pnsgito0_h264_540p_508746",
+                            "data_size": 593516
+                        },
+                        "is_h265": 0
+                    }
+                ],
+                "duration": 9333,
+                "download_suffix_logo_addr": {
+                    "uri": "v09044830000br1j43k45u07pnsgito0",
+                    "url_list": [
+                        "https://api-h2.tiktokv.com/aweme/v1/play/?video_id=v09044830000br1j43k45u07pnsgito0&line=0&ratio=540p&watermark=1&media_type=4&vr_type=0&improve_bitrate=0&logo_name=tiktok_m_suffix&quality_type=4&is_support_h265=0&source=PackSourceEnum_FEED"
+                    ],
+                    "width": 720,
+                    "height": 720,
+                    "data_size": 1550219
+                },
+                "has_download_suffix_logo_addr": true,
+                "is_h265": 0,
+                "cdn_url_expired": 1592507398,
+                "misc_download_addrs": "{\"snapchat\":{\"uri\":\"v09044830000br1j43k45u07pnsgito0\",\"url_list\":[\"https://api-h2.tiktokv.com/aweme/v1/play/?video_id=v09044830000br1j43k45u07pnsgito0&line=0&ratio=540p&watermark=1&media_type=4&vr_type=0&improve_bitrate=0&logo_name=tiktok_snapchat_suffix&quality_type=4&is_support_h265=0&source=PackSourceEnum_FEED\"],\"width\":720,\"height\":720,\"data_size\":1593627}}\n"
+            },
+            "share_url": "https://m.tiktok.com/v/6828356531696749829.html?u_code=0&preview_pb=0&language=en&_d=d29f81747l03gg&share_item_id=6828356531696749829",
+            "user_digged": 0,
+            "statistics": {
+                "aweme_id": "6828356531696749829",
+                "comment_count": 38817,
+                "digg_count": 2947796,
+                "download_count": 34480,
+                "play_count": 18874997,
+                "share_count": 53485,
+                "forward_count": 0,
+                "lose_count": 0,
+                "lose_comment_count": 0,
+                "whatsapp_share_count": 4529
+            },
+            "status": {
+                "aweme_id": "6828356531696749829",
+                "is_delete": false,
+                "allow_share": true,
+                "allow_comment": true,
+                "is_private": false,
+                "with_goods": false,
+                "private_status": 0,
+                "with_fusion_goods": false,
+                "in_reviewing": false,
+                "reviewed": 1,
+                "self_see": false,
+                "is_prohibited": false,
+                "download_status": 0
+            },
+            "rate": 12,
+            "text_extra": [],
+            "is_top": 0,
+            "label_top": {
+                "uri": "tiktok-obj/1598708589477025.PNG",
+                "url_list": [
+                    "https://p16-tiktokcdn-com.akamaized.net/obj/tiktok-obj/1598708589477025.PNG?l=202006181309480101151761430C238C4C"
+                ],
+                "width": 720,
+                "height": 720
+            },
+            "share_info": {
+                "share_url": "https://m.tiktok.com/v/6828356531696749829.html?u_code=0&preview_pb=0&language=en&_d=d29f81747l03gg&share_item_id=6828356531696749829",
+                "share_weibo_desc": "TikTok: Make Every Second CountCheck out LazarBeam ’s video! #TikTok > ",
+                "share_desc": "Check out LazarBeam 's video! #TikTok",
+                "share_title": "Check out LazarBeam ’s video! #TikTok > ",
+                "bool_persist": 0,
+                "share_title_myself": "",
+                "share_title_other": "",
+                "share_link_desc": "",
+                "share_signature_url": "",
+                "share_signature_desc": "",
+                "share_quote": ""
+            },
+            "distance": "",
+            "video_labels": [],
+            "is_vr": false,
+            "is_ads": false,
+            "duration": 9333,
+            "aweme_type": 0,
+            "is_fantasy": false,
+            "cmt_swt": false,
+            "image_infos": null,
+            "risk_infos": {
+                "vote": false,
+                "warn": false,
+                "risk_sink": false,
+                "type": 0,
+                "content": ""
+            },
+            "is_relieve": false,
+            "sort_label": "",
+            "position": null,
+            "uniqid_position": null,
+            "comment_list": null,
+            "author_user_id": 6631468310313943000,
+            "bodydance_score": 0,
+            "geofencing": [],
+            "is_hash_tag": 1,
+            "is_pgcshow": false,
+            "region": "AU",
+            "video_text": [],
+            "vr_type": 0,
+            "collect_stat": 0,
+            "label_top_text": null,
+            "promotions": null,
+            "group_id": "6828356531696749829",
+            "prevent_download": false,
+            "nickname_position": null,
+            "challenge_position": null,
+            "item_comment_settings": 0,
+            "with_promotional_music": false,
+            "xigua_task": {
+                "is_xigua_task": false
+            },
+            "long_video": null,
+            "item_duet": 0,
+            "item_react": 0,
+            "desc_language": "en",
+            "interaction_stickers": null,
+            "origin_comment_ids": null,
+            "commerce_config_data": null,
+            "distribute_type": 1,
+            "video_control": {
+                "allow_download": true,
+                "share_type": 1,
+                "show_progress_bar": 0,
+                "draft_progress_bar": 0,
+                "allow_duet": true,
+                "allow_react": true,
+                "prevent_download_type": 0,
+                "allow_dynamic_wallpaper": true,
+                "timer_status": 1,
+                "allow_music": true
+            },
+            "has_vs_entry": false,
+            "need_vs_entry": false,
+            "anchors": null,
+            "hybrid_label": null,
+            "with_survey": false,
+            "geofencing_regions": null
+        },
+        {
+            "aweme_id": "6836209773751422209",
+            "desc": "#dirilişertuğrul #viral #1million ##standwithkashmir #foryoupage #burhan_tv #kuchkuch",
+            "create_time": 1591679126,
+            "author": {
+                "uid": "6800836429708477442",
+                "short_id": "34320620897",
+                "nickname": "Dirilis ertugrul",
+                "signature": "💥جدوجہد ہماری مگر فتح اللہ کی 💥",
+                "avatar_thumb": {
+                    "uri": "tiktok-obj/ae7b1b0ff16b6b300e1eca223b73501c",
+                    "url_list": [
+                        "https://p16-tiktokcdn-com.akamaized.net/aweme/100x100/tiktok-obj/ae7b1b0ff16b6b300e1eca223b73501c.webp"
+                    ],
+                    "width": 720,
+                    "height": 720
+                },
+                "avatar_medium": {
+                    "uri": "tiktok-obj/ae7b1b0ff16b6b300e1eca223b73501c",
+                    "url_list": [
+                        "https://p16-tiktokcdn-com.akamaized.net/aweme/720x720/tiktok-obj/ae7b1b0ff16b6b300e1eca223b73501c.webp"
+                    ],
+                    "width": 720,
+                    "height": 720
+                },
+                "is_verified": true,
+                "follow_status": 0,
+                "is_block": false,
+                "location": "",
+                "hide_location": false,
+                "custom_verify": "",
+                "unique_id": "ertugrul__ghazi1",
+                "story_count": 0,
+                "room_id": 0,
+                "authority_status": 0,
+                "verify_info": "",
+                "share_info": {
+                    "share_url": "",
+                    "share_weibo_desc": "",
+                    "share_desc": "",
+                    "share_title": "",
+                    "share_qrcode_url": {
+                        "uri": "",
+                        "url_list": [],
+                        "width": 720,
+                        "height": 720
+                    },
+                    "share_title_myself": "",
+                    "share_title_other": ""
+                },
+                "with_commerce_entry": false,
+                "verification_type": 1,
+                "enterprise_verify_reason": "",
+                "is_ad_fake": false,
+                "followers_detail": null,
+                "region": "PK",
+                "sync_to_toutiao": 0,
+                "commerce_user_level": 0,
+                "platform_sync_info": null,
+                "is_discipline_member": false,
+                "secret": 0,
+                "prevent_download": false,
+                "geofencing": null,
+                "video_icon": {
+                    "uri": "",
+                    "url_list": [],
+                    "width": 720,
+                    "height": 720
+                },
+                "comment_setting": 0,
+                "duet_setting": 0,
+                "download_setting": 0,
+                "cover_url": [
+                    {
+                        "uri": "tiktok-obj/1613727517271041",
+                        "url_list": [
+                            "https://p16-tiktokcdn-com.akamaized.net/obj/tiktok-obj/1613727517271041?l=202006181309480101151761430C238C4C"
+                        ],
+                        "width": 720,
+                        "height": 720
+                    }
+                ],
+                "language": "en",
+                "item_list": null,
+                "has_unread_story": false,
+                "new_story_cover": null,
+                "is_star": false,
+                "type_label": [],
+                "ad_cover_url": null,
+                "comment_filter_status": 0,
+                "avatar_168x168": {
+                    "uri": "tiktok-obj/ae7b1b0ff16b6b300e1eca223b73501c",
+                    "url_list": [
+                        "https://p16-tiktokcdn-com.akamaized.net/img/tiktok-obj/ae7b1b0ff16b6b300e1eca223b73501c~c5_168x168.webp"
+                    ],
+                    "width": 720,
+                    "height": 720
+                },
+                "avatar_300x300": {
+                    "uri": "tiktok-obj/ae7b1b0ff16b6b300e1eca223b73501c",
+                    "url_list": [
+                        "https://p16-tiktokcdn-com.akamaized.net/img/tiktok-obj/ae7b1b0ff16b6b300e1eca223b73501c~c5_300x300.webp"
+                    ],
+                    "width": 720,
+                    "height": 720
+                },
+                "relative_users": null,
+                "cha_list": null,
+                "sec_uid": "MS4wLjABAAAAAg6KPg3Gv74RSkgvISDb69U94LsSA05Aw-hdDBnBs1dq8joYK6eAPQ6zt4Mecu0b",
+                "need_points": null,
+                "homepage_bottom_toast": null,
+                "can_set_geofencing": null,
+                "white_cover_url": null
+            },
+            "music": {
+                "id": 6796233373980397000,
+                "id_str": "6796233373980396289",
+                "title": "original sound - saeedkhan0011",
+                "author": "saeed khan",
+                "album": "",
+                "cover_hd": {
+                    "uri": "tiktok-obj/97b388738c05c5cbbc0d2b1c7f7953c4",
+                    "url_list": [
+                        "https://p16-tiktokcdn-com.akamaized.net/aweme/1080x1080/tiktok-obj/97b388738c05c5cbbc0d2b1c7f7953c4.webp"
+                    ],
+                    "width": 720,
+                    "height": 720
+                },
+                "cover_large": {
+                    "uri": "tiktok-obj/97b388738c05c5cbbc0d2b1c7f7953c4",
+                    "url_list": [
+                        "https://p16-tiktokcdn-com.akamaized.net/aweme/1080x1080/tiktok-obj/97b388738c05c5cbbc0d2b1c7f7953c4.webp"
+                    ],
+                    "width": 720,
+                    "height": 720
+                },
+                "cover_medium": {
+                    "uri": "tiktok-obj/97b388738c05c5cbbc0d2b1c7f7953c4",
+                    "url_list": [
+                        "https://p16-tiktokcdn-com.akamaized.net/aweme/720x720/tiktok-obj/97b388738c05c5cbbc0d2b1c7f7953c4.webp"
+                    ],
+                    "width": 720,
+                    "height": 720
+                },
+                "cover_thumb": {
+                    "uri": "tiktok-obj/97b388738c05c5cbbc0d2b1c7f7953c4",
+                    "url_list": [
+                        "https://p16-tiktokcdn-com.akamaized.net/aweme/100x100/tiktok-obj/97b388738c05c5cbbc0d2b1c7f7953c4.webp"
+                    ],
+                    "width": 720,
+                    "height": 720
+                },
+                "play_url": {
+                    "uri": "https://sf-tk-sg.ibytedtos.com/obj/tiktok-obj/1659237091821618.mp3",
+                    "url_list": [
+                        "https://sf-tk-sg.ibytedtos.com/obj/tiktok-obj/1659237091821618.mp3"
+                    ],
+                    "width": 720,
+                    "height": 720
+                },
+                "schema_url": "",
+                "source_platform": 24,
+                "start_time": 0,
+                "end_time": 0,
+                "duration": 10,
+                "extra": "{\"beats\":{},\"douyin_beats_info\":{},\"schedule_search_time\":0,\"hotsoon_review_time\":-1,\"has_edited\":0,\"reviewed\":0}",
+                "user_count": 0,
+                "position": null,
+                "collect_stat": 0,
+                "status": 1,
+                "offline_desc": "",
+                "owner_id": "6684926235632567302",
+                "owner_nickname": "saeed khan",
+                "is_original": false,
+                "mid": "6796233373980396289",
+                "binded_challenge_id": 0,
+                "redirect": false,
+                "is_restricted": false,
+                "author_deleted": false,
+                "is_del_video": false,
+                "is_video_self_see": false,
+                "owner_handle": "saeedkhan0011",
+                "author_position": null,
+                "prevent_download": false,
+                "unshelve_countries": null,
+                "prevent_item_download_status": 0,
+                "external_song_info": [],
+                "sec_uid": "MS4wLjABAAAAW3bUwxfOkUr6aZutmCQEWDfekfobuTg2FTA-f08HytbkMKnEGrNuLTNDlcDFwQQ3",
+                "avatar_thumb": {
+                    "uri": "tiktok-obj/97b388738c05c5cbbc0d2b1c7f7953c4",
+                    "url_list": [
+                        "https://p16-tiktokcdn-com.akamaized.net/aweme/100x100/tiktok-obj/97b388738c05c5cbbc0d2b1c7f7953c4.webp"
+                    ],
+                    "width": 720,
+                    "height": 720
+                },
+                "avatar_medium": {
+                    "uri": "tiktok-obj/97b388738c05c5cbbc0d2b1c7f7953c4",
+                    "url_list": [
+                        "https://p16-tiktokcdn-com.akamaized.net/aweme/720x720/tiktok-obj/97b388738c05c5cbbc0d2b1c7f7953c4.webp"
+                    ],
+                    "width": 720,
+                    "height": 720
+                },
+                "avatar_large": {
+                    "uri": "tiktok-obj/97b388738c05c5cbbc0d2b1c7f7953c4",
+                    "url_list": [
+                        "https://p16-tiktokcdn-com.akamaized.net/aweme/1080x1080/tiktok-obj/97b388738c05c5cbbc0d2b1c7f7953c4.webp"
+                    ],
+                    "width": 720,
+                    "height": 720
+                },
+                "preview_start_time": 0,
+                "preview_end_time": 0,
+                "is_commerce_music": true,
+                "is_original_sound": true,
+                "artists": null,
+                "lyric_short_position": null,
+                "mute_share": false,
+                "tag_list": null,
+                "is_author_artist": false,
+                "is_pgc": false
+            },
+            "cha_list": [
+                {
+                    "cid": "23280551",
+                    "cha_name": "dirilişertuğrul",
+                    "desc": "",
+                    "schema": "aweme://aweme/challenge/detail?cid=23280551",
+                    "author": {
+                        "followers_detail": null,
+                        "platform_sync_info": null,
+                        "geofencing": null,
+                        "cover_url": null,
+                        "item_list": null,
+                        "new_story_cover": null,
+                        "type_label": null,
+                        "ad_cover_url": null,
+                        "relative_users": null,
+                        "cha_list": null,
+                        "need_points": null,
+                        "homepage_bottom_toast": null,
+                        "can_set_geofencing": null,
+                        "white_cover_url": null
+                    },
+                    "user_count": 0,
+                    "share_info": {
+                        "share_url": "https://m.tiktok.com/h5/share/tag/23280551.html?name=dirili%C5%9Fertu%C4%9Frul&u_code=0&language=en&_d=d29f81747l03gg&share_challenge_id=23280551",
+                        "share_weibo_desc": "This is becoming a big trend on TikTok now! #dirilişertuğrul Join me and have fun! Tap here:",
+                        "share_desc": "This is becoming a big trend on TikTok now! #dirilişertuğrul Join me and have fun! Tap here:",
+                        "share_title": "It is a becoming a big trend on TikTok now! Click here: dirilişertuğrul",
+                        "bool_persist": 0,
+                        "share_title_myself": "",
+                        "share_title_other": "",
+                        "share_signature_url": "",
+                        "share_signature_desc": "",
+                        "share_quote": ""
+                    },
+                    "connect_music": [],
+                    "type": 1,
+                    "sub_type": 0,
+                    "is_pgcshow": false,
+                    "collect_stat": 0,
+                    "is_challenge": 0,
+                    "view_count": 0,
+                    "is_commerce": false,
+                    "hashtag_profile": "",
+                    "cha_attrs": null,
+                    "banner_list": null
+                }
+            ],
+            "video": {
+                "play_addr": {
+                    "uri": "v09044fa0000brfhfigdmjt06tacofd0",
+                    "url_list": [
+                        "https://api-h2.tiktokv.com/aweme/v1/play/?video_id=v09044fa0000brfhfigdmjt06tacofd0&line=0&ratio=540p&media_type=4&vr_type=0&improve_bitrate=0&is_play_url=1&is_support_h265=0&source=PackSourceEnum_FEED"
+                    ],
+                    "width": 720,
+                    "height": 720,
+                    "url_key": "v09044fa0000brfhfigdmjt06tacofd0_h264_540p_476986",
+                    "data_size": 609171
+                },
+                "cover": {
+                    "uri": "tos-maliva-p-0068/c181756f31784c65a71154858ac430bf",
+                    "url_list": [
+                        "https://p16-tiktok-va.ibyteimg.com/tos-maliva-p-0068/c181756f31784c65a71154858ac430bf~noop.webp?x-expires=1592658000&x-signature=Ff5nnKVhjkaJ3HEgpPqoa4CCXLI%3D&l=202006181309480101151761430C238C4C"
+                    ],
+                    "width": 720,
+                    "height": 720
+                },
+                "height": 1280,
+                "width": 720,
+                "dynamic_cover": {
+                    "uri": "tos-maliva-p-0068/d959332e02384d7a90887b5a883fa4c8_1591679128",
+                    "url_list": [
+                        "https://p16-tiktok-va.ibyteimg.com/obj/tos-maliva-p-0068/d959332e02384d7a90887b5a883fa4c8_1591679128?x-expires=1592658000&x-signature=CDRqwMaYUr0R%2BAXHk5DL20RhpRY%3D&l=202006181309480101151761430C238C4C"
+                    ],
+                    "width": 720,
+                    "height": 720
+                },
+                "origin_cover": {
+                    "uri": "tos-maliva-p-0068/28afc50252824cbdb5dccfeaff065a92_1591679128",
+                    "url_list": [
+                        "https://p16-tiktok-va.ibyteimg.com/tos-maliva-p-0068/28afc50252824cbdb5dccfeaff065a92_1591679128~noop.image?x-expires=1592658000&x-signature=ZR7kqPupB6IHU2FzEx%2F%2F18%2FKs%2Bc%3D&l=202006181309480101151761430C238C4C"
+                    ],
+                    "width": 720,
+                    "height": 720
+                },
+                "ratio": "540p",
+                "download_addr": {
+                    "uri": "v09044fa0000brfhfigdmjt06tacofd0",
+                    "url_list": [
+                        "https://api-h2.tiktokv.com/aweme/v1/play/?video_id=v09044fa0000brfhfigdmjt06tacofd0&line=0&ratio=540p&watermark=1&media_type=4&vr_type=0&improve_bitrate=0&logo_name=tiktok_m&quality_type=4&is_support_h265=0&source=PackSourceEnum_FEED"
+                    ],
+                    "width": 720,
+                    "height": 720,
+                    "data_size": 709018
+                },
+                "has_watermark": true,
+                "bit_rate": [
+                    {
+                        "gear_name": "normal_540",
+                        "quality_type": 20,
+                        "bit_rate": 476986,
+                        "play_addr": {
+                            "uri": "v09044fa0000brfhfigdmjt06tacofd0",
+                            "url_list": [
+                                "https://api-h2.tiktokv.com/aweme/v1/play/?video_id=v09044fa0000brfhfigdmjt06tacofd0&line=0&ratio=540p&media_type=4&vr_type=0&improve_bitrate=0&is_play_url=1&is_support_h265=0&source=PackSourceEnum_FEED"
+                            ],
+                            "width": 720,
+                            "height": 720,
+                            "url_key": "v09044fa0000brfhfigdmjt06tacofd0_h264_540p_476986",
+                            "data_size": 609171
+                        },
+                        "is_h265": 0
+                    },
+                    {
+                        "gear_name": "lower_540",
+                        "quality_type": 24,
+                        "bit_rate": 268714,
+                        "play_addr": {
+                            "uri": "v09044fa0000brfhfigdmjt06tacofd0",
+                            "url_list": [
+                                "https://api-h2.tiktokv.com/aweme/v1/play/?video_id=v09044fa0000brfhfigdmjt06tacofd0&line=0&ratio=540p&media_type=4&vr_type=0&improve_bitrate=0&is_play_url=1&quality_type=4&is_support_h265=0&source=PackSourceEnum_FEED"
+                            ],
+                            "width": 720,
+                            "height": 720,
+                            "url_key": "v09044fa0000brfhfigdmjt06tacofd0_h264_540p_268714",
+                            "data_size": 343182
+                        },
+                        "is_h265": 0
+                    },
+                    {
+                        "gear_name": "lowest_540",
+                        "quality_type": 25,
+                        "bit_rate": 185895,
+                        "play_addr": {
+                            "uri": "v09044fa0000brfhfigdmjt06tacofd0",
+                            "url_list": [
+                                "https://api-h2.tiktokv.com/aweme/v1/play/?video_id=v09044fa0000brfhfigdmjt06tacofd0&line=0&ratio=540p&media_type=4&vr_type=0&improve_bitrate=0&is_play_url=1&quality_type=5&is_support_h265=0&source=PackSourceEnum_FEED"
+                            ],
+                            "width": 720,
+                            "height": 720,
+                            "url_key": "v09044fa0000brfhfigdmjt06tacofd0_h264_540p_185895",
+                            "data_size": 237412
+                        },
+                        "is_h265": 0
+                    }
+                ],
+                "duration": 10217,
+                "download_suffix_logo_addr": {
+                    "uri": "v09044fa0000brfhfigdmjt06tacofd0",
+                    "url_list": [
+                        "https://api-h2.tiktokv.com/aweme/v1/play/?video_id=v09044fa0000brfhfigdmjt06tacofd0&line=0&ratio=540p&watermark=1&media_type=4&vr_type=0&improve_bitrate=0&logo_name=tiktok_m_suffix&quality_type=4&is_support_h265=0&source=PackSourceEnum_FEED"
+                    ],
+                    "width": 720,
+                    "height": 720,
+                    "data_size": 777276
+                },
+                "has_download_suffix_logo_addr": true,
+                "is_h265": 0,
+                "cdn_url_expired": 1592507399
+            },
+            "share_url": "https://m.tiktok.com/v/6836209773751422209.html?u_code=0&preview_pb=0&language=en&_d=d29f81747l03gg&share_item_id=6836209773751422209",
+            "user_digged": 0,
+            "statistics": {
+                "aweme_id": "6836209773751422209",
+                "comment_count": 80,
+                "digg_count": 39789,
+                "download_count": 6068,
+                "play_count": 423783,
+                "share_count": 1720,
+                "forward_count": 0,
+                "lose_count": 0,
+                "lose_comment_count": 0,
+                "whatsapp_share_count": 1407
+            },
+            "status": {
+                "aweme_id": "6836209773751422209",
+                "is_delete": false,
+                "allow_share": true,
+                "allow_comment": true,
+                "is_private": false,
+                "with_goods": false,
+                "private_status": 0,
+                "with_fusion_goods": false,
+                "in_reviewing": false,
+                "reviewed": 1,
+                "self_see": false,
+                "is_prohibited": false,
+                "download_status": 0
+            },
+            "rate": 12,
+            "text_extra": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "type": 1,
+                    "hashtag_name": "dirilişertuğrul",
+                    "hashtag_id": "23280551",
+                    "is_commerce": false
+                },
+                {
+                    "start": 17,
+                    "end": 23,
+                    "type": 1,
+                    "hashtag_name": "viral",
+                    "hashtag_id": "20884",
+                    "is_commerce": false
+                },
+                {
+                    "start": 24,
+                    "end": 33,
+                    "type": 1,
+                    "hashtag_name": "1million",
+                    "hashtag_id": "1618875494896645",
+                    "is_commerce": false
+                },
+                {
+                    "start": 35,
+                    "end": 52,
+                    "type": 1,
+                    "hashtag_name": "standwithkashmir",
+                    "hashtag_id": "1624626732781573",
+                    "is_commerce": false
+                },
+                {
+                    "start": 53,
+                    "end": 64,
+                    "type": 1,
+                    "hashtag_name": "foryoupage",
+                    "hashtag_id": "88764338",
+                    "is_commerce": false
+                },
+                {
+                    "start": 65,
+                    "end": 75,
+                    "type": 1,
+                    "hashtag_name": "burhan_tv",
+                    "hashtag_id": "1640911455753222",
+                    "is_commerce": false
+                },
+                {
+                    "start": 76,
+                    "end": 85,
+                    "type": 1,
+                    "hashtag_name": "kuchkuch",
+                    "hashtag_id": "5389285",
+                    "is_commerce": false
+                }
+            ],
+            "is_top": 0,
+            "label_top": {
+                "uri": "tiktok-obj/1598708589477025.PNG",
+                "url_list": [
+                    "https://p16-tiktokcdn-com.akamaized.net/obj/tiktok-obj/1598708589477025.PNG?l=202006181309480101151761430C238C4C"
+                ],
+                "width": 720,
+                "height": 720
+            },
+            "share_info": {
+                "share_url": "https://m.tiktok.com/v/6836209773751422209.html?u_code=0&preview_pb=0&language=en&_d=d29f81747l03gg&share_item_id=6836209773751422209",
+                "share_weibo_desc": "TikTok: Make Every Second CountCheck out Dirilis ertugrul’s video! #TikTok > ",
+                "share_desc": "Check out Dirilis ertugrul's video! #TikTok",
+                "share_title": "Check out Dirilis ertugrul’s video! #TikTok > ",
+                "bool_persist": 0,
+                "share_title_myself": "",
+                "share_title_other": "",
+                "share_link_desc": "",
+                "share_signature_url": "",
+                "share_signature_desc": "",
+                "share_quote": ""
+            },
+            "distance": "",
+            "video_labels": [],
+            "is_vr": false,
+            "is_ads": false,
+            "duration": 10217,
+            "aweme_type": 53,
+            "is_fantasy": false,
+            "cmt_swt": false,
+            "image_infos": null,
+            "risk_infos": {
+                "vote": false,
+                "warn": false,
+                "risk_sink": false,
+                "type": 0,
+                "content": ""
+            },
+            "is_relieve": false,
+            "sort_label": "{\"author_id\":6800836429708477442,\"author_country\":\"Pakistan\",\"need_coldstart_force\":false,\"need_heat_force\":false}",
+            "position": null,
+            "uniqid_position": null,
+            "comment_list": null,
+            "author_user_id": 6800836429708477000,
+            "bodydance_score": 0,
+            "geofencing": [],
+            "is_hash_tag": 1,
+            "is_pgcshow": false,
+            "region": "PK",
+            "video_text": [],
+            "vr_type": 0,
+            "collect_stat": 0,
+            "label_top_text": null,
+            "promotions": null,
+            "group_id": "6836209773751422209",
+            "prevent_download": false,
+            "nickname_position": null,
+            "challenge_position": null,
+            "item_comment_settings": 0,
+            "with_promotional_music": false,
+            "xigua_task": {
+                "is_xigua_task": false
+            },
+            "long_video": null,
+            "item_duet": 0,
+            "item_react": 0,
+            "desc_language": "un",
+            "interaction_stickers": null,
+            "misc_info": "{\"green_screen\":0,\"mv_id\":\"309379\",\"mv_info\":{\"id\":\"309379\",\"name\":\"Double Exposure\",\"icon_url\":{\"Uri\":\"\",\"UrlList\":null,\"DataSize\":null,\"Width\":null,\"Height\":null,\"UrlKey\":null,\"FileHash\":null,\"FileCs\":null},\"user_count\":null,\"desc\":null,\"mv_type\":0,\"extra\":\"{\\\"template_max_material\\\":2,\\\"template_min_material\\\":1,\\\"template_picture_cover\\\":\\\"6b0d81314d527140c658f51f922592b1\\\",\\\"template_pic_fill_mode\\\":\\\"AspectFill\\\",\\\"template_pic_input_height\\\":1920,\\\"template_pic_input_width\\\":1080,\\\"template_video_cover\\\":\\\"55e86fb74ab1d257733491dd3ecc6eb3.mp4\\\"}\"}}",
+            "origin_comment_ids": null,
+            "commerce_config_data": null,
+            "distribute_type": 1,
+            "video_control": {
+                "allow_download": true,
+                "share_type": 1,
+                "show_progress_bar": 0,
+                "draft_progress_bar": 0,
+                "allow_duet": true,
+                "allow_react": true,
+                "prevent_download_type": 0,
+                "allow_dynamic_wallpaper": true,
+                "timer_status": 1,
+                "allow_music": true
+            },
+            "has_vs_entry": false,
+            "need_vs_entry": false,
+            "anchors": null,
+            "hybrid_label": null,
+            "with_survey": false,
+            "geofencing_regions": null
+        }
+    ],
+    "home_model": 1,
+    "refresh_clear": 1,
+    "extra": {
+        "now": 1592485790000,
+        "fatal_item_ids": null
+    },
+    "log_pb": {
+        "impr_id": "202006181309480101151761430C238C4C"
+    },
+    "preload_ads": [],
+    "preload_awemes": null
+}

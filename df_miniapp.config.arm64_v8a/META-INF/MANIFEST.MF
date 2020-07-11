@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: BundleTool
+Created-By: BundleTool
+
+Name: AndroidManifest.xml
+SHA1-Digest: LQskqAYUNTPnOQeu0XOWEpGvvAA=
+
+Name: lib/arm64-v8a/libjsbinding-jsc.so
+SHA1-Digest: wqpPcrLSEg4x8LCZHi0VHzaIBng=
+

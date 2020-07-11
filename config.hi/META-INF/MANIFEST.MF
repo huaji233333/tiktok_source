@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Built-By: BundleTool
+Created-By: BundleTool
+
+Name: AndroidManifest.xml
+SHA1-Digest: EWL3+IDfED//BVulSZpXQ05PVF0=
+
+Name: assets/i18#lang_hi/default.json
+SHA1-Digest: Kn9cAWP9K8Yai5WgQ9lIZ9bnnEw=
+
+Name: resources.arsc
+SHA1-Digest: itzIm53opgJExN34Iaze0gv/dBk=
+

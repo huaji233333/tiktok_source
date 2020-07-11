@@ -1,0 +1,1 @@
+window.__ttjsenv__ = 'microapp'

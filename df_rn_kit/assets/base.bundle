@@ -1,0 +1,103 @@
+global.__redefineUIManager = function(uiManager) {
+    const NativeModules = global.nativeModuleProxy;
+    const LayoutManager = NativeModules.LayoutManager;
+
+    uiManager.getConstantsForViewManager = function (viewManagerName) {
+        return LayoutManager.getConstantsForViewManager(viewManagerName);
+    }
+
+    uiManager.getDefaultEventTypes = function () {
+        return LayoutManager.getDefaultEventTypes();
+    }
+
+    uiManager.removeRootView = function (tag) {
+        return LayoutManager.removeRootView(tag);
+    }
+
+    uiManager.createView = function (tag, className, rootTag, props) {
+        return LayoutManager.createView(tag, className, rootTag, props);
+    }
+
+    uiManager.updateView = function (tag, className, props) {
+        return LayoutManager.updateView(tag, className, props);
+    }
+
+    uiManager.manageChildren = function (tag,
+        moveFrom,
+        moveTo,
+        addTags,
+        addIndices,
+        remove) {
+        return LayoutManager.manageChildren(tag,
+            moveFrom,
+            moveTo,
+            addTags,
+            addIndices,
+            remove);
+    }
+
+    uiManager.setChildren = function (tag, childrenTags) {
+        return LayoutManager.setChildren(tag, childrenTags);
+    }
+
+    uiManager.replaceExistingNonRootView = function (oldTag, newTag) {
+        return LayoutManager.replaceExistingNonRootView(oldTag, newTag);
+    }
+
+    uiManager.removeSubviewsFromContainerWithID = function (containerTag) {
+        return LayoutManager.removeSubviewsFromContainerWithID(containerTag);
+    }
+
+    uiManager.measure = function (tag, callback) {
+        return LayoutManager.measure(tag, callback);
+    }
+
+    uiManager.measureInWindow = function (tag, callback) {
+        return LayoutManager.measureInWindow(tag, callback);
+    }
+
+    uiManager.measureLayout = function (tag, ancestorTag, error, success) {
+        return LayoutManager.measureLayout(tag, ancestorTag, error, success);
+    }
+
+    uiManager.measureLayoutRelativeToParent = function (tag, error, success) {
+        return LayoutManager.measureLayoutRelativeToParent(tag, error, success);
+    }
+
+    uiManager.findSubviewIn = function (tag, point, callback) {
+        return LayoutManager.findSubviewIn(tag, point, callback);
+    }
+
+    uiManager.viewIsDescendantOf = function (tag, ancestorTag, callback) {
+        return LayoutManager.viewIsDescendantOf(tag, ancestorTag, callback);
+    }
+
+    uiManager.setJSResponder = function (reactTag, blockNativeResponder) {
+        return LayoutManager.setJSResponder(reactTag, blockNativeResponder);
+    }
+
+    uiManager.clearJSResponder = function () {
+        return LayoutManager.clearJSResponder();
+    }
+
+    uiManager.dispatchViewManagerCommand = function (reactTag, commandId, commandArgs) {
+        return LayoutManager.dispatchViewManagerCommand(reactTag, commandId, commandArgs);
+    }
+
+    uiManager.showPopupMenu = function (reactTag, items, error, success) {
+        return LayoutManager.showPopupMenu(reactTag, items, error, success);
+    }
+
+    uiManager.setLayoutAnimationEnabledExperimental = function (enabled) {
+        return LayoutManager.setLayoutAnimationEnabledExperimental(enabled);
+    }
+
+    uiManager.configureNextLayoutAnimation = function (config, success, error) {
+        return LayoutManager.configureNextLayoutAnimation(config, success, error);
+    }
+
+    uiManager.sendAccessibilityEvent = function (tag, eventType) {
+        return LayoutManager.sendAccessibilityEvent(tag, eventType);
+    }
+    return uiManager;
+}

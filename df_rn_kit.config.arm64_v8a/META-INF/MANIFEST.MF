@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Built-By: BundleTool
+Created-By: BundleTool
+
+Name: AndroidManifest.xml
+SHA1-Digest: euRsPN4sfyg3RXXzJJdKDtolURA=
+
+Name: lib/arm64-v8a/libjsc.so
+SHA1-Digest: nzZbGWSJa44yQnBlKP4gg0m6a/U=
+
+Name: lib/arm64-v8a/libreactnativejni.so
+SHA1-Digest: MtgLWFodpx0P55zzQ84dyIVO9ug=
+

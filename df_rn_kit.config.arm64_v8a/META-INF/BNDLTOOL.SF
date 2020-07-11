@@ -1,0 +1,14 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: hC7LmyaHS3grP8VlR+lo5TaNl8U=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA1-Digest: Hbjq1nLS2FKiXAfU5XznISY6Ly8=
+
+Name: lib/arm64-v8a/libjsc.so
+SHA1-Digest: TKV7/Dqm6ZB65X7REDSpIvUB5fc=
+
+Name: lib/arm64-v8a/libreactnativejni.so
+SHA1-Digest: 7poOLd5uW1GOB2wduLsKTG58xrM=
+

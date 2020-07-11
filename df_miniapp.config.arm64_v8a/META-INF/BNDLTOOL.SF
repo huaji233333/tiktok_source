@@ -1,0 +1,11 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: +H0QFF2oyUqGyBh7JjeOGWoikbE=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA1-Digest: Qmy34Y5mAErjidPH9r/m75HPA3U=
+
+Name: lib/arm64-v8a/libjsbinding-jsc.so
+SHA1-Digest: /6Jx40zhC41k5Xw3lSNDBhyYR10=
+

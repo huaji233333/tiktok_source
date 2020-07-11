@@ -1,0 +1,55 @@
+Manifest-Version: 1.0
+Built-By: BundleTool
+Created-By: BundleTool
+
+Name: AndroidManifest.xml
+SHA1-Digest: sedu5jLhy/trtnyS+v+H2yCgM/w=
+
+Name: assets/base.bundle
+SHA1-Digest: +M43ngUEuehOccszA3yAk7mMIDQ=
+
+Name: classes.dex
+SHA1-Digest: S8Iy7JQDOdzYtP0Kbk3Jf4buVG4=
+
+Name: res/a/er.xml
+SHA1-Digest: mR19un1hwZP8GTN3HxemdbVJg6E=
+
+Name: res/a/es.xml
+SHA1-Digest: ndNWZRkFT/+OwMB333QAH0xT+l0=
+
+Name: res/a/et.xml
+SHA1-Digest: o1TFxm0I3EdmbIy6lRk+FaI9+Ac=
+
+Name: res/a/eu.xml
+SHA1-Digest: u6i+N0HdOduA6WtFaFVVaelhHcQ=
+
+Name: res/a/ev.xml
+SHA1-Digest: oZm5S/UD7cUaKoKA5rnCbkvUnJU=
+
+Name: res/a/ew.xml
+SHA1-Digest: +F04B3D2aANxk7rIbq8RiPp/NvU=
+
+Name: res/a7/b7r.xml
+SHA1-Digest: mwZaF4HjEYa3BV6+NGBZPCTFSzA=
+
+Name: res/a7/b7s.xml
+SHA1-Digest: bMLxpRDXSj3MY2sibZOUroGCjkc=
+
+Name: res/a7/b7t.xml
+SHA1-Digest: GtVDKotDJsKVSoYotWY9kwEp7Lo=
+
+Name: res/a7/b7u.xml
+SHA1-Digest: bMnJcqrNZdrJ39+rJP8mEib6Tek=
+
+Name: res/a7/b7v.xml
+SHA1-Digest: YLGpDtaUbKAnIOw2zYE2yAA7hi0=
+
+Name: res/a8/aqb.xml
+SHA1-Digest: GX9HljT8zYlZWY5XOW9s1OYk8ok=
+
+Name: res/aq/m.xml
+SHA1-Digest: VQTi4WgLmmUka28lETIJX3tQb4Q=
+
+Name: resources.arsc
+SHA1-Digest: T1hBjRgMGun7DCiaDXBotDgyPSQ=
+

@@ -1,0 +1,20 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: XwGEzwtiJty6keIVM+RgIZSacJk=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA1-Digest: XhvpTusFJ+JnpO0WOtYcJdjbsf0=
+
+Name: assets/i18#lang_my/default.json
+SHA1-Digest: Ae8dGTAevihqNuNSDTsULChKJ/U=
+
+Name: assets/i18#lang_my/my.json
+SHA1-Digest: mA7FPOEFaVmWVaiJ9NQVF7/8858=
+
+Name: assets/i18#lang_my/th.json
+SHA1-Digest: XtI1pLH3RSubVRNY8oSTeHb0Ccg=
+
+Name: resources.arsc
+SHA1-Digest: b3cjqD/FzC+ga/UfdrVJEMiKN/8=
+

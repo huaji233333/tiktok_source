@@ -1,0 +1,44 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: 74zl7CxcDC+YFyeJzaH1HzV1Vpg=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA1-Digest: ogT5XOjj9I59pvGBUeRn9d5bCls=
+
+Name: assets/i18#lang_ar/default.json
+SHA1-Digest: 4Gv1XzKmoFqmjZuHu7IMomeIQnA=
+
+Name: assets/i18#lang_ar/dz.json
+SHA1-Digest: qWK2gV3ZgFZT3E5M2bN3lQloUUg=
+
+Name: assets/i18#lang_ar/eg.json
+SHA1-Digest: vhF5SGStiOV13q9y5wplg4A1uJo=
+
+Name: assets/i18#lang_ar/il.json
+SHA1-Digest: fXvoXlu6FNUB/VErG1n1PBEiCT4=
+
+Name: assets/i18#lang_ar/iq.json
+SHA1-Digest: S/8ecHwHr2g5t1UTVnp25bffHOY=
+
+Name: assets/i18#lang_ar/jo.json
+SHA1-Digest: J+513O4YkoRT8s2zBYiI4Z76lno=
+
+Name: assets/i18#lang_ar/ly.json
+SHA1-Digest: telC/LsKZM2UdoPtOGc05yB9W/4=
+
+Name: assets/i18#lang_ar/ma.json
+SHA1-Digest: IQhKEeaFXQSnW6FXcZnAOw06Z08=
+
+Name: assets/i18#lang_ar/tr.json
+SHA1-Digest: 7+kny6oJrh8kuVoXzCcgtRfD/KI=
+
+Name: assets/i18#lang_ar/ye.json
+SHA1-Digest: Xhaz94ctVpKVFnhOV9sAXy4wFCc=
+
+Name: res/as/a.webp
+SHA1-Digest: ZDGH+jV+HDfIdOQcW473Emp1Rrk=
+
+Name: resources.arsc
+SHA1-Digest: xogPMTB3eTdgRdCNRjH2dEkI5ck=
+
