@@ -1,4 +1,4 @@
-# TikTok-source-code
+# TikTok source code
 
 Full source code to the android tiktok app.
 
