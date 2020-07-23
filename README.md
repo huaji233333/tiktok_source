@@ -19,14 +19,14 @@ Here is the full reverse engineered source code. Enjoy
 
 # interesting code
 
-location tracking: 
+###### location tracking: 
 tiktok_source/df_miniapp/classes/com/tt/miniapp/maplocate/TMALocation.java
 tiktok_source/df_miniapp/classes/com/tt/miniapp/maplocate/ILocator.java
 
-phone calls:
+##### phone calls:
 tiktok_source/df_miniapp/classes/com/tt/miniapp/call/PhoneCallImpl.java
 
-screenshot code:
+##### screenshot code:
 tiktok_source/df_miniapp/classes/com/tt/miniapp/msg/onUserCaptureScreen/TakeScreenshotManager.java
 
 weird list in the screenshot code
@@ -36,8 +36,13 @@ weird list in the screenshot code
       "screen-cap", "screen cap", "截屏" };
 ```
 
-get wifi networks:
+###### get wifi networks:
 tiktok_source/df_miniapp/classes/com/tt/miniapp/msg/wifi/ApiGetWifiListCtrl.java
+
+###### facial recognition:
+tiktok_source/df_miniapp/classes/com/tt/miniapp/facialverify/FacialVerifyProtocolActivity.java 
+
+
 
 # TODO LIST
 
