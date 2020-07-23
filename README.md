@@ -36,6 +36,8 @@ weird list in the screenshot code
       "screen-cap", "screen cap", "截屏" };
 ```
 
+get wifi networks:
+tiktok_source/df_miniapp/classes/com/tt/miniapp/msg/wifi/ApiGetWifiListCtrl.java
 
 # TODO LIST
 
