@@ -17,6 +17,25 @@ Here is the full reverse engineered source code. Enjoy
 
 [NOTE] this is where I got the APK. https://apkpure.com/tiktok/com.ss.android.ugc.trill
 
+# interesting code
+
+location tracking: 
+tiktok_source/df_miniapp/classes/com/tt/miniapp/maplocate/TMALocation.java
+tiktok_source/df_miniapp/classes/com/tt/miniapp/maplocate/ILocator.java
+
+phone calls:
+tiktok_source/df_miniapp/classes/com/tt/miniapp/call/PhoneCallImpl.java
+
+screenshot code:
+tiktok_source/df_miniapp/classes/com/tt/miniapp/msg/onUserCaptureScreen/TakeScreenshotManager.java
+
+weird list in the screenshot code
+```
+  static final String[] KEYWORDS = new String[] { 
+      "screenshot", "screen_shot", "screen-shot", "screen shot", "screencapture", "screen_capture", "screen-capture", "screen capture", "screencap", "screen_cap", 
+      "screen-cap", "screen cap", "截屏" };
+```
+
 
 # TODO LIST
 
