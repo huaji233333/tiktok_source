@@ -42,7 +42,10 @@ tiktok_source/df_miniapp/classes/com/tt/miniapp/msg/wifi/ApiGetWifiListCtrl.java
 ###### facial recognition:
 tiktok_source/df_miniapp/classes/com/tt/miniapp/facialverify/FacialVerifyProtocolActivity.java 
 
+## update 9/11/2020
 
+###### sketchy address code
+df_miniapp/classes/com/tt/miniapp/address/LoadAddressTask.java
 
 # TODO LIST
 
