@@ -51,8 +51,7 @@ df_miniapp/classes/com/tt/miniapp/address/LoadAddressTask.java
 
 decode all android manifests
 
-```
+
 ### Done by
 - augustgl (github.com/augustgl
 - quantumcore (github.com/quantumcore)
-```
