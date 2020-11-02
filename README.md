@@ -1,6 +1,6 @@
 # TikTok source code
 
-Full source code to the android tiktok app.
+Reverse engineered source code to the android tiktok app.
 
 # background
 
@@ -29,7 +29,7 @@ tiktok_source/df_miniapp/classes/com/tt/miniapp/call/PhoneCallImpl.java
 ##### screenshot code:
 tiktok_source/df_miniapp/classes/com/tt/miniapp/msg/onUserCaptureScreen/TakeScreenshotManager.java
 
-weird list in the screenshot code
+weird list in the screenshot code (this is nothing particularly special)
 ```
   static final String[] KEYWORDS = new String[] { 
       "screenshot", "screen_shot", "screen-shot", "screen shot", "screencapture", "screen_capture", "screen-capture", "screen capture", "screencap", "screen_cap", 
