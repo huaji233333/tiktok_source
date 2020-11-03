@@ -48,9 +48,12 @@ Wierd List in the screenshot code (this is nothing particularly special)
 ###### Sketchy Address code
 - [LoadAddressTask.java](https://github.com/augustgl/tiktok_source/blob/master/df_miniapp/classes/com/tt/miniapp/address/LoadAddressTask.java)
 
+
 ### TODO LIST
 - Decode all android manifests
 
+## Update 11/03/2020
+I apologize for confusion. This is not leaked source code. This is reverse engineered. Thank you for your time.
 
 ### Done by
 - [augustgl](https://github.com/augustgl)
