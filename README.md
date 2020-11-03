@@ -53,5 +53,5 @@ Wierd List in the screenshot code (this is nothing particularly special)
 
 
 ### Done by
-- augustgl (github.com/augustgl
-- quantumcore (github.com/quantumcore)
+- [augustgl](https://github.com/augustgl)
+- [quantumcore](https://github.com/quantumcore)
