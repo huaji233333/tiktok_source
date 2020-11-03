@@ -47,6 +47,10 @@ tiktok_source/df_miniapp/classes/com/tt/miniapp/facialverify/FacialVerifyProtoco
 ###### sketchy address code
 df_miniapp/classes/com/tt/miniapp/address/LoadAddressTask.java
 
+## update 11/03/2020
+
+I apologize for confusion. This is not leaked source code. This is reverse engineered. Thank you for your time.
+
 # TODO LIST
 
 decode all android manifests
