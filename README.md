@@ -15,7 +15,7 @@ China, I'll see you when you send the hitmen to my house.
 Here is the full reverse engineered source code. Enjoy
 
 
-[NOTE] this is where I got the APK. https://apkpure.com/tiktok/com.ss.android.ugc.trill
+**NOTE** : this is where I got the APK. https://apkpure.com/tiktok/com.ss.android.ugc.trill
 
 ### Interesting Code
 
