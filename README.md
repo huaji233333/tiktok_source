@@ -20,14 +20,14 @@ Here is the full reverse engineered source code. Enjoy
 ### Interesting Code
 
 ###### Location tracking: 
-- [TMALocation.java](https://github.com/augustgl/tiktok_source/blob/master/df_miniapp/classes/com/tt/miniapp/maplocate/TMALocation.java)
-- [ILocation.java](https://github.com/augustgl/tiktok_source/blob/master/df_miniapp/classes/com/tt/miniapp/maplocate/ILocator.java)
+- [TMALocation.java](https://github.com/huaji233333/tiktok_source/blob/master/df_miniapp/classes/com/tt/miniapp/maplocate/TMALocation.java)
+- [ILocation.java](https://github.com/huaji233333/tiktok_source/blob/master/df_miniapp/classes/com/tt/miniapp/maplocate/ILocator.java)
 
 ##### Phone calls:
-- [PhoneCallImpl.java](https://github.com/augustgl/tiktok_source/blob/master/df_miniapp/classes/com/tt/miniapp/call/PhoneCallImpl.java)
+- [PhoneCallImpl.java](https://github.com/huaji233333/tiktok_source/blob/master/df_miniapp/classes/com/tt/miniapp/call/PhoneCallImpl.java)
 
 ##### Screenshot code:
-- [TakeScreenshotManager.java](https://github.com/augustgl/tiktok_source/blob/master/df_miniapp/classes/com/tt/miniapp/msg/onUserCaptureScreen/TakeScreenshotManager.java)
+- [TakeScreenshotManager.java](https://github.com/huaji233333/tiktok_source/blob/master/df_miniapp/classes/com/tt/miniapp/msg/onUserCaptureScreen/TakeScreenshotManager.java)
 tiktok_source/df_miniapp/classes/com/tt/miniapp/msg/onUserCaptureScreen/TakeScreenshotManager.java
 
 Wierd List in the screenshot code (this is nothing particularly special)
@@ -38,15 +38,15 @@ Wierd List in the screenshot code (this is nothing particularly special)
 ```
 
 ###### Get Wifi networks:
-- [ApiGetWifiListCtrl.java](https://github.com/augustgl/tiktok_source/blob/master/df_miniapp/classes/com/tt/miniapp/msg/wifi/ApiGetWifiListCtrl.java)
+- [ApiGetWifiListCtrl.java](https://github.com/huaji233333/tiktok_source/blob/master/df_miniapp/classes/com/tt/miniapp/msg/wifi/ApiGetWifiListCtrl.java)
 
 ###### Facial recognition:
-- [FacialVerifyProtocolActivity.java](https://github.com/augustgl/tiktok_source/blob/master/df_miniapp/classes/com/tt/miniapp/facialverify/FacialVerifyProtocolActivity.java)
+- [FacialVerifyProtocolActivity.java](https://github.com/huaji233333/tiktok_source/blob/master/df_miniapp/classes/com/tt/miniapp/facialverify/FacialVerifyProtocolActivity.java)
 
 ### Update 9/11/2020
 
 ###### Sketchy Address code
-- [LoadAddressTask.java](https://github.com/augustgl/tiktok_source/blob/master/df_miniapp/classes/com/tt/miniapp/address/LoadAddressTask.java)
+- [LoadAddressTask.java](https://github.com/huaji233333/tiktok_source/blob/master/df_miniapp/classes/com/tt/miniapp/address/LoadAddressTask.java)
 
 
 ### TODO LIST
